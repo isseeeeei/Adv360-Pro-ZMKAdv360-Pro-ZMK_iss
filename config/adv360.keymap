@@ -44,7 +44,7 @@
        &kp TAB      &kp Q         &kp W     &kp E      &kp R   &kp T            &macro_windows_tab                                                                             &macro_zoom_in   &kp Y     &kp U      &kp I     &kp O     &kp P  &kp EQUAL
          &mo 2      &kp A         &kp S     &kp D      &kp F   &kp G                         &none      &kp LCTRL  &kp LEFT_WIN                         &kp LGUI   &kp RCTRL  &macro_zoom_out   &kp H     &kp J      &kp K     &kp L  &kp SEMI    &kp SQT
      &kp LSHFT      &kp Z         &kp X     &kp C      &kp V   &kp B                                                   &kp HOME                  &kp PRINTSCREEN                                &kp N     &kp M  &kp COMMA   &kp DOT  &kp FSLH  &kp RSHFT
- &kp BACKSLASH  &kp GRAVE  &kp LEFT_ALT  &kp LEFT  &kp RIGHT                             &kp SPACE  &kp BACKSPACE       &kp DEL                        &kp PG_DN  &kp DELETE        &kp SPACE          &kp DOWN     &kp UP  &kp LBKT  &kp RBKT      &mo 2
+ &kp BACKSLASH  &kp GRAVE  &kp LEFT_ALT  &kp LEFT  &kp RIGHT                             &kp SPACE  &kp BACKSPACE       &kp DEL                        &kp PG_DN  &kp DELETE        &kp ENTER          &kp DOWN     &kp UP  &kp LBKT  &kp RBKT      &mo 2
             >;
         };
 
